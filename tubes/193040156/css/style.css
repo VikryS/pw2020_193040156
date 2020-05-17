@@ -1,0 +1,22 @@
+.container{
+  font-size : 15px;
+  text-align : center;
+  background-image: url(../assets/gambar/6.jpg);
+  height: 435px;
+  padding: 50px 100px 50px 100px;
+color: black;
+font-size: 20px;
+text-shadow: black 3px 3px 3px;
+  
+  
+}
+.tombol_kembali{
+  background-color: whitesmoke;
+  font-size: 15px;
+  color: black;
+}
+p{
+  background-color: whitesmoke;
+  width: 100px;
+  margin: auto;
+}

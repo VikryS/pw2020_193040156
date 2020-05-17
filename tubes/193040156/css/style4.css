@@ -1,0 +1,26 @@
+.container {
+  background-image: url(../assets/gambar/4.jpg);
+  height: 435px;
+  padding: 50px 100px 50px 100px;
+  }
+  #s {
+    font-size: 20px;
+    background-color: whitesmoke
+  }
+  #k {
+    background-color: whitesmoke;
+    font-size: 20px;
+  }
+  h1 {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    text-shadow: 3px 3px 3px; 
+  }
+  label{
+    background-color: whitesmoke;
+  }
+  a:visited{
+    color: black;
+  }

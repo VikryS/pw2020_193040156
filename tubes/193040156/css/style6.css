@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+   border: 1px brown;
+   background-image: url(../assets/gambar/2.jpg);
+   background-size: cover;
+   height: 435px;
+padding: 50px 100px 50px 100px;
+font-size: 25px;
+}
+
+.container1 {
+  text-align: center;
+   border: 1px brown;
+   background-image: url(../assets/gambar/2.jpg);
+   background-size: cover;
+   height: 435px;
+padding: 50px 100px 50px 100px;
+font-size: 25px;
+}
